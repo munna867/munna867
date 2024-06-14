@@ -30,7 +30,7 @@ I've worked on several projects to apply and strengthen my skills. You can check
 
 ## 📫 Get in Touch
 
-Feel free to connect with me! You can reach me via [email](mailto:munnatasewale@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/munna-tasewale-b50876282/)).
+Feel free to connect with me! You can reach me via [email](mailto:munnatasewale@gmail.com) or connect with me on [LinkedIn]([[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/munna-tasewale-b50876282/)]).
 
 ## 🚀 Let's Collaborate
 
