@@ -2,6 +2,9 @@
 
 I'm a passionate student pursuing BBACA with a keen interest in web development and technology. Welcome to my GitHub profile!
 
+[![Visitors](https://img.shields.io/endpoint?url=https://api.visitorbadge.io/api/VisitorHit?user=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
+
+
 ## 🔭 Current Focus
 
 🌱 I’m currently learning and exploring various aspects of web development, including:
