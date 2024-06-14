@@ -2,7 +2,7 @@
 
 I'm a passionate student pursuing BBACA with a keen interest in web development and technology. Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=munna867&color=green)
 
 
 ## 🔭 Current Focus
